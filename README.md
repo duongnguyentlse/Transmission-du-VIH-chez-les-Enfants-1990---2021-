@@ -27,8 +27,3 @@ Un **tableau de bord Power BI interactif** permet d'explorer l'évolution des in
 2. **Développer des programmes de prévention** ciblés.  
 3. **Encourager le dépistage et le traitement précoce**.  
 
-## Utilisation  
-1. **Cloner le projet** :
-   ```bash
-   git clone https://github.com/yourusername/hiv-children-analysis.git
-   cd hiv-children-analysis
